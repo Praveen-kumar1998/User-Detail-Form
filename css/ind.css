@@ -1,0 +1,20 @@
+body, html {
+    height: 100%;
+  }
+.heading{
+    text-align:center;
+}
+.content{
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+.background {
+    background-image: url(../photos/wladislaw-sokolowskij-0vw4InAC-yM-unsplash.jpg);
+    background-color: #cccccc; 
+    height: 500px; 
+    background-position: center; 
+    background-repeat: no-repeat; 
+    background-size: cover;
+   }
+
